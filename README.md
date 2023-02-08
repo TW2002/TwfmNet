@@ -1,0 +1,1 @@
+# BlazingWiki-wasm
